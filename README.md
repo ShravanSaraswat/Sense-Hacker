@@ -9,10 +9,6 @@
 <br />
 
 
-## ❤️ Note for new Contributors : ❤️
-
-Thank you very much for considering this project. Make sure you read [Code of Conduct](CODE_OF_CONDUCT.md) and [Contribution Guidelines](CONTRIBUTING.md) before making contributions. Feel free to raise an issue and after gettting assigned to it, you are all set to work on it.
-
 ## 📌 About the project :
 
 This project was intentionally built for the Merge Intern's `Hack You` Hackathon. This project is helpful for gaining awareness about keeping yourself safe in the cyber space and get out of the zone of becomming an easy target
@@ -120,10 +116,3 @@ git clone https://github.com/<your-user-name>/sense-hack.git
 
 8. Wait for acceptance ! Best of luck
 
-## Team Members & Contributors
-
-All the below mentioned are prominent element of this project and without them it wouldn't be possible.
-
-<a href="https://github.com/ShravanSaraswat/Sense-Hacker">
-  <img src="https://contrib.rocks/image?repo=kaiwalyakoparkar/sense-hacker" />
-</a>
