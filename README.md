@@ -8,12 +8,6 @@
 </p>
 <br />
 
-# 🎉 Achievements:🎉
-
-### <b> ❤️ This project has won 2nd prize in Merge Interns's Hack you hackathon ❤️ </b>
-
-<img src="https://user-images.githubusercontent.com/73097560/114392724-bc9cef80-9bcb-11eb-86aa-9b4dd111d331.png">
-<a href="https://devpost.com/software/sense-hacker">Check here</a>
 
 ## ❤️ Note for new Contributors : ❤️
 
@@ -75,9 +69,6 @@ The story of the project is pretty interesting. There's an anonymous hacker out 
   </div>
 </div>
 
-## 📌 Demo Video
-
-<img src="/assets/img/documentation/demo.gif">
 
 ## 📌 Technologies used
 
@@ -107,7 +98,7 @@ For new contibution or feature :
 ## 📌 Steps to contibute :
 
 1. Fork the project:
-   Fork the project from https://github.com/kaiwalyakoparkar/sense-hacker/
+   Fork the project from [https://github.com/ShravanSaraswat/Sense-Hacker]
 
 2. Cloning the project :
 
@@ -133,6 +124,6 @@ git clone https://github.com/<your-user-name>/sense-hack.git
 
 All the below mentioned are prominent element of this project and without them it wouldn't be possible.
 
-<a href="https://github.com/kaiwalyakoparkar/sense-hacker/graphs/contributors">
+<a href="https://github.com/ShravanSaraswat/Sense-Hacker">
   <img src="https://contrib.rocks/image?repo=kaiwalyakoparkar/sense-hacker" />
 </a>
